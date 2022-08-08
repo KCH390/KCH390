@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently studying chemical engineering, C++, and Python. I also use MATLAB on occasion. My profile picture is a MATLAB plot of some thermodynamic          process data that I gathered during experimentation!
 
-- 💞️ I’m not really looking to collaborate with anyone, but I’m not necessarily opposed to it. I’m here to practice coding in a public environment and display      some of my basic abilities. I use code frequently in specific non-disclosable scenarios, so the programs I'm uploading are a small fraction of my actual        experience. 
+- 💞️ I’m not really looking to collaborate with anyone, but I’m not necessarily opposed to it. I’m here to practice coding in a public environment and display      some of my basic abilities. I use code frequently in non-disclosable scenarios, so the programs I'm uploading are a small fraction of my actual experience. 
 
 - 📫 How to reach me: Make a comment on one of my repositories! 
 
