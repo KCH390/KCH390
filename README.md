@@ -1,14 +1,17 @@
-- 👋 Hi, I’m @KCH390!
+👋 Hi, I'm Kerry Hall
 
-- 👀 I’m interested in using code to do heavy mathematics and physical modeling. I've never had any formal coding education (besides a brief introduction to        MATLAB in my early engineering courses). My Python and C/C++ skills are purely self-taught with help from books, source documentation, YouTube, Udemy, and      StackExchange. 
+Manufacturing and quality engineer with a chemical engineering background, currently applying that domain experience to industrial AI, data science, and computational modeling.
 
-- 🌱 I’m currently studying chemical engineering, C++, and Python. I also use MATLAB on occasion. My profile picture is a MATLAB plot of some thermodynamic          process data that I gathered during experimentation!
+What I work on
 
-- 💞️ I’m not really looking to collaborate with anyone, but I’m not necessarily opposed to it. I’m here to practice coding in a public environment and display      some of my basic abilities. I use code frequently in non-disclosable scenarios, so the programs I'm uploading are a small fraction of my actual experience. 
+Applying Python and C/C++ to engineering problems — process modeling, data analysis, and simulation
+Building projects that mirror real manufacturing and supply chain problems: data modeling, statistical optimization, and machine learning applied to production and inventory systems
+Self-directed study in computational methods on top of a formal chemical/process engineering foundation — Python and C/C++ are self-taught, developed through documentation, coursework, and hands-on projects
 
-- 📫 How to reach me: Make a comment on one of my repositories! 
+Background Manufacturing Engineer at Morgan Advanced Materials; previously Extrusion Quality Engineer at The Goodyear Tire & Rubber Company. BS in Engineering (Chemical Concentration, Math minor), Campbell University.
 
-<!---
-KCH390/KCH390 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently building coffee-erp — a simulated ERP and working capital optimizer: SQL data modeling (BOM/routing/costing), statistical inventory optimization, and machine learning (demand forecasting, substitution/cross-elasticity modeling) applied to a production and inventory system end to end.
+
+Most of the code I write day-to-day is for non-public engineering work, so what's here is a smaller, public-facing sample of how I approach problems.
+
+📫 Open an issue or discussion on any of my repos — happy to talk shop.
