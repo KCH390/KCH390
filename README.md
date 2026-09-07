@@ -1,17 +1,25 @@
 👋 Hi, I'm Kerry Hall
 
-Manufacturing and quality engineer with a chemical engineering background, currently applying that domain experience to industrial AI, data science, and computational modeling.
+Manufacturing/quality engineer (chemical engineering background) who also
+builds industrial AI and systems software on the side — mostly stuff
+adjacent to what I do at work: process control, fault detection,
+predictive maintenance.
 
-What I work on
+I've been writing more in Rust recently. Python and C++ still get used for a lot of the
+modeling and simulation work.
 
-Applying Python and C/C++ to engineering problems — process modeling, data analysis, and simulation
-Building projects that mirror real manufacturing and supply chain problems: data modeling, statistical optimization, and machine learning applied to production and inventory systems
-Self-directed study in computational methods on top of a formal chemical/process engineering foundation — Python and C/C++ are self-taught, developed through documentation, coursework, and hands-on projects
+Manufacturing Engineer at Morgan Advanced Materials, previously an
+Extrusion Quality Engineer at Goodyear. BS in Engineering (Chemical
+concentration, Math minor), Campbell University.
 
-Background Manufacturing Engineer at Morgan Advanced Materials; previously Extrusion Quality Engineer at The Goodyear Tire & Rubber Company. BS in Engineering (Chemical Concentration, Math minor), Campbell University.
+A few of the projects here build on each other: SECOM (semiconductor fault
+detection), Tennessee Eastman (fault diagnosis, with an actual Cantera
+kinetics model behind it), and now a NASA turbofan RUL project in Rust
+where I built a gradient-boosted-trees model from scratch that ended up
+beating the library baselines (linear regression, random forest) I
+compared it against.
 
-Currently building coffee-erp — a simulated ERP and working capital optimizer: SQL data modeling (BOM/routing/costing), statistical inventory optimization, and machine learning (demand forecasting, substitution/cross-elasticity modeling) applied to a production and inventory system end to end.
+Most of what I write day to day is for non-public work, so this is just a
+sample of how I think through problems.
 
-Most of the code I write day-to-day is for non-public engineering work, so what's here is a smaller, public-facing sample of how I approach problems.
-
-📫 Open an issue or discussion on any of my repos — happy to talk shop.
+📫 Feel free to open an issue if you want to talk shop.
