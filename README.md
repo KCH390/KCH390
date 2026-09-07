@@ -1,7 +1,7 @@
 👋 Hi, I'm Kerry Hall
 
 Manufacturing/quality engineer (chemical engineering background) who also
-builds industrial AI and systems software on the side — mostly stuff
+builds industrial AI and systems software on the side. I'm making stuff
 adjacent to what I do at work: process control, fault detection,
 predictive maintenance.
 
